@@ -13,7 +13,7 @@ Unlaunch is a free feature flag service. Please visit [https://www.unlaunch.io](
 ```
 {
     flagKeys: ["your_flag_keys"],
-    apiKey: "your_api_key",
+    apiKey: "your-sdk-key",
     ....
 }
 ```
